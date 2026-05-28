@@ -21,7 +21,6 @@ Olá! Sou a *Larissa*. Sejam bem-vindos ao meu espaço no GitHub! ✨
 * 🌱 Atualmente, estou em pleno *processo de aprendizado*, descobrindo o universo da programação a cada dia.
 * 💻 Iniciando na área de *Desenvolvimento Web*, criando projetos práticos para fixar meus estudos.
 <br/>
-<br/>
  🛠️ Tecnologias e Ferramentas
 
 Aqui estão as tecnologias com as quais venho praticando e evoluindo:
@@ -32,6 +31,10 @@ Aqui estão as tecnologias com as quais venho praticando e evoluindo:
 
 * *Outras linguagens que já explorei:*
   * ⚙️ C# (Minha introdução à lógica de programação e back-end)
+
+    <br/>
+    
+<br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lariscosta569-wq/lariscosta569-wq/pacman-output/pacman-contribution-graph-dark.svg">
