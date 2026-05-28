@@ -11,7 +11,15 @@
 </p>
 <br />
 
+<br />
 
+## 🚀 Sobre Mim
+
+Olá! Sou a *Larissa*. Sejam bem-vindos ao meu espaço no GitHub! ✨
+
+* 🎓 *Estudante do Ensino Médio Técnico*, focada em tecnologia e desenvolvimento.
+* 🌱 Atualmente, estou em pleno *processo de aprendizado*, descobrindo o universo da programação a cada dia.
+* 💻 Iniciando na área de *Desenvolvimento Web*, criando projetos práticos para fixar meus estudos.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lariscosta569-wq/lariscosta569-wq/pacman-output/pacman-contribution-graph-dark.svg">
