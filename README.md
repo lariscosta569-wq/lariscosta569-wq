@@ -37,7 +37,7 @@ Aqui estão as tecnologias com as quais venho praticando e evoluindo:
 <br/>
 
 <p align="center">
-  <img src="https://ibb.co/V07nMTC8" alt="Banner do meu perfil" width="100%" />
+  <img src="https://ibb.co/V07nMTC8" alt="Banner" width="100%" />
 </p>
 <br />
 
