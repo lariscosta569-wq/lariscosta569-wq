@@ -35,8 +35,7 @@ Aqui estão as tecnologias com as quais venho praticando e evoluindo:
     <br/>
     
 <br/>
-<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/a980645d-8185-4043-877f-6b7495b14856" />
-<br />
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lariscosta569-wq/lariscosta569-wq/pacman-output/pacman-contribution-graph-dark.svg">
