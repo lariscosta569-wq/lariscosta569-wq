@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://i.pinimg.com/736x/67/eb/b2/67ebb2628687f26cf6c37fc232ff58f1.jpg" alt="Banner do meu perfil" width="100%" />
+</p>
+<br />
+
+
 <h1 align="center"><font color="#bf8daf">Hello world ?</h1>
 
 <p align="center">
@@ -5,10 +11,7 @@
 </p>
 <br />
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/c0/e2/ee/c0e2eefdb87d299c5bf4f67bbe146133.jpg" alt="Banner do meu perfil" width="100%" />
-</p>
-<br />
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lariscosta569-wq/lariscosta569-wq/pacman-output/pacman-contribution-graph-dark.svg">
