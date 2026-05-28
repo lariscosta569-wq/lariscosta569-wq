@@ -5,6 +5,11 @@
 </p>
 <br />
 
+<p align="center">
+  <img src="https://pin.it/6Eb9QZA88" alt="Banner do meu perfil" width="100%" />
+</p>
+<br />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lariscosta569-wq/lariscosta569-wq/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lariscosta569-wq/lariscosta569-wq/pacman-output/pacman-contribution-graph.svg">
