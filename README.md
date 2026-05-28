@@ -21,7 +21,8 @@ Olá! Sou a *Larissa*. Sejam bem-vindos ao meu espaço no GitHub! ✨
 * 🌱 Atualmente, estou em pleno *processo de aprendizado*, descobrindo o universo da programação a cada dia.
 * 💻 Iniciando na área de *Desenvolvimento Web*, criando projetos práticos para fixar meus estudos.
 <br/>
-  ## 🛠️ Tecnologias e Ferramentas
+<br/>
+ 🛠️ Tecnologias e Ferramentas
 
 Aqui estão as tecnologias com as quais venho praticando e evoluindo:
 
