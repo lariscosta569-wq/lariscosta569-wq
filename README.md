@@ -36,10 +36,6 @@ Aqui estão as tecnologias com as quais venho praticando e evoluindo:
     
 <br/>
 
-<p align="center">
-  <img src="https://ibb.co/V07nMTC8" alt="Banner" width="100%" />
-</p>
-<br />
 
 <p align="center">
 <a href="https://ibb.co/V07nMTC8"><img src="https://i.ibb.co/cKGf2Q8d/Whats-App-Image-2026-05-28-at-12-01-41-AM.jpg" alt="Whats-App-Image-2026-05-28-at-12-01-41-AM" border="0"></a>
