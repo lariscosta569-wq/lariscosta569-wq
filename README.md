@@ -36,6 +36,10 @@ Aqui estão as tecnologias com as quais venho praticando e evoluindo:
     
 <br/>
 
+<p align="center">
+  <img src="https://i.pinimg.com/736x/bb/e7/69/bbe769bc9a65a15f7a63646eb82a943d.jpg" alt="Banner do meu perfil" width="100%" />
+</p>
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lariscosta569-wq/lariscosta569-wq/pacman-output/pacman-contribution-graph-dark.svg">
