@@ -41,6 +41,9 @@ Aqui estão as tecnologias com as quais venho praticando e evoluindo:
 <a href="https://ibb.co/V07nMTC8"><img src="https://i.ibb.co/cKGf2Q8d/Whats-App-Image-2026-05-28-at-12-01-41-AM.jpg" alt="Whats-App-Image-2026-05-28-at-12-01-41-AM" border="0"></a>
 </p>
 
+<br/>
+<br/> 
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lariscosta569-wq/lariscosta569-wq/pacman-output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lariscosta569-wq/lariscosta569-wq/pacman-output/pacman-contribution-graph.svg">
