@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Hi%21+Larissa+here%21%22%2C%22color%22%3A%22%23bf8daf%22%7D%2C%7B%22text%22%3A%22And+Emojis%21+%F0%9F%98%80%F0%9F%9A%80%22%7D%5D)](https://github.com/whiteSHADOW1234/TypingSVG)
 
+<p align="center">
+  <img src="https://typingsvg.vercel.app/api/svg?lines=%5B%7B%22text%22%3A%22Hi%21+Larissa+here%21%22%2C%22color%22%3A%22%23bf8daf%22%7D%2C%7B%22text%22%3A%22And+Emojis%21+%F0%9F%98%80%F0%9F%9A%80%22%7D%5D" alt="Typing SVG" />
+</p>
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lariscosta569-wq/lariscosta569-wq/pacman-output/pacman-contribution-graph-dark.svg">
