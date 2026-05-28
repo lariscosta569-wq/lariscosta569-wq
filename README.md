@@ -37,7 +37,7 @@ Aqui estão as tecnologias com as quais venho praticando e evoluindo:
 <br/>
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/bb/e7/69/bbe769bc9a65a15f7a63646eb82a943d.jpg" alt="Banner do meu perfil" width="100%" />
+  <img src="C:\Users\laris\Downloads\WhatsApp Image 2026-05-28 at 12.01.41 AM.jpeg" alt="Banner do meu perfil" width="100%" />
 </p>
 <br />
 
