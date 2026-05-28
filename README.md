@@ -6,7 +6,7 @@
 <br />
 
 <p align="center">
-  <img src="https://pin.it/6Eb9QZA88" alt="Banner do meu perfil" width="100%" />
+  <img src="https://i.pinimg.com/736x/67/eb/b2/67ebb2628687f26cf6c37fc232ff58f1.jpg" alt="Banner do meu perfil" width="100%" />
 </p>
 <br />
 
